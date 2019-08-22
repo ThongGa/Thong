@@ -1,0 +1,46 @@
+.tieude{
+	width: 100%;
+	height: 50px;
+	background: #035291;
+}
+.tieude1{
+	background: #035291;
+	float: left;
+	width: 50%;
+	height: 30px;
+	margin-top: 10px;
+}
+.tieude1 ul li{
+	list-style: none;
+	float: left;
+	width: 25%;
+	margin-top: -15px;
+}
+.tieude2{
+	background: #035291;
+	float: right;
+	width: 50%;
+	height: 30px;
+	margin-top: 10px;
+
+}
+.tieude2 ul li{
+	list-style: none;
+	float: left;
+	width: 30%;
+	margin-top: -15px;
+}
+.tieude a{
+	text-decoration: none;
+	color: white;
+}
+.tieude a:hover{
+	color: #ff6825;
+}
+.banner{
+	background: #035291;
+	
+}
+.banner1{
+	width: 50%;
+}
